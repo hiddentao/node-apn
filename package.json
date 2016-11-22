@@ -29,9 +29,9 @@
   },
   "dependencies": {
     "debug": "^2.3.2",
-    "http2": "https://github.com/node-apn/node-http2/archive/apn-2.1.2.tar.gz",
-    "node-forge": "^0.6.45",
+    "http2": "^3.3.6",
     "jsonwebtoken": "^7.1.9",
+    "node-forge": "^0.6.45",
     "verror": "^1.8.1"
   },
   "devDependencies": {
